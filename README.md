@@ -1,5 +1,5 @@
-## 👋 Hello, I’m @anibaloso 
-# I’m from Chile
+# 👋 Hello, I’m @anibaloso 
+### I’m from Chile
 # I’m from Frontend Developer
 # I studied programming in Java at Inacap institute, but now I am entering the world of web development.
 
